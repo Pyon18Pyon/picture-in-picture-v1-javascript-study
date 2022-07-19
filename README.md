@@ -4,7 +4,7 @@ This project was completed as part of the Udemy course, [JavaScript Web Project:
 
 ## What it does?
 
-This is a picture in picture demo application. In the pop up screen, you can choose the screen that you want to share. After you selected the screen press **Share**, then click **START** button. You can see the selected browser appears at the right bottom corner.   
+This is a picture in picture demo application. In the pop up screen, you can choose the screen that you want to share. After you select the screen press **Share**, then click **START** button. You can see the selected browser appears at the bottom right corner.   
 
 ## Key features
 
